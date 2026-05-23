@@ -8,7 +8,7 @@ SLE = AV * EF
  - Exposure Factor (EF) - If a flood will damage 40% of your data center, EF is 40%
 
 ARO
- - Annual Rate of Occurance
+ - Annual Rate of Occurrence
 
 ALE = ARO * SLE
  - :beer: = :heart_eyes: (get it?)
